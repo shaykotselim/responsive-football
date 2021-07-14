@@ -84,3 +84,17 @@ body{
     width: 567px;
     height: 427px;
 }
+
+/* -----footer section style-------- */
+.footer{
+    width:483.87px ;
+    height: 213px;
+    margin-top: 15%;
+    margin-left: 475px;
+}
+
+.footer img{
+    width: 483.87px;
+    height: 213px;
+}
+
