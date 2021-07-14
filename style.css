@@ -44,4 +44,22 @@ body{
 }
 
   
+
+/* ------second - section styles-------- */
+ 
+.container{
+    display: flex;
+    width: 1050px;
+    height: 474px;
+    margin-top: 24px;
+    margin-bottom: 20%;
+}
+.photo-album{
+    margin-left: 115px;
+}
+
+
+.photo-album img{
+    width: 330px;
+    height: 400px;
 }
