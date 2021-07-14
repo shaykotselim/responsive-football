@@ -1,0 +1,43 @@
+body{
+    font-family: 'Poppins', sans-serif;
+}
+/* -------first-section styles----- */
+.first-section{
+    display:flex;
+    height: 677px;
+    width: 1440px;
+ 
+    background-color: rgb(84, 37, 172);
+
+}
+.half-width{
+    height: 230px;
+    width: 485px;
+    margin-left: 156px;
+    margin-top: 205px;
+    border-radius: nullpx;
+
+}
+#font{
+    font-size: 64px;
+    color: white;
+    line-height: 30px;
+    font-weight: 700px;
+
+}
+.half-width img{
+    Width:402px;
+    Height:411px:
+}
+.link-button{
+    text-decoration: none;
+    background-color: rgb(248, 56, 200);
+    padding: 10px 40px;
+    font-size: 20px;
+    border-radius: 10px;
+    font-weight: 700;
+    color: white;
+}
+
+  
+}
