@@ -28,6 +28,10 @@ body{
 .half-width img{
     Width:402px;
     Height:411px:
+
+}
+.first-section:hover .half-width img{
+    transform: scale(1.3);
 }
 .link-button{
     text-decoration: none;
